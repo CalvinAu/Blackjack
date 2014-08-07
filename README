@@ -1,2 +1,10 @@
-Beginner Project
+Text-based game of the card game Blackjack
 Practice with OOP
+
+To play, execute runBlackjack.py
+
+deck.py contains the class Deck which represents a 52 card deck
+blackjack.py contains the class Blackjack which uses Deck and simulates a game
+
+The dealer uses a very simple AI that decides whether or not to hit depending on the
+player’s cards
